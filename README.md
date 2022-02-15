@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rizalbayyu
 - 👀 I’m interested in DevOps and blockchain
 - 🌱 I’m currently learning blockchain
-- 📫 How to reach me ...
+- 📫 rizalbayu90@gmail.com
 
 <!---
 rizalbayyu/rizalbayyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
