@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizalbayyu
-- 👀 I’m interested in cloud and blockchain
+- 👀 I’m interested in DevOps and blockchain
 - 🌱 I’m currently learning blockchain
 - 📫 How to reach me ...
 
