@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizalbayyu
 - 👀 I’m interested in DevOps and blockchain
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning automations
 - 📫 rizalbayu90@gmail.com
 
 <!---
